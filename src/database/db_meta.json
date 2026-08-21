@@ -1,0 +1,3169 @@
+{
+  "version": 1,
+  "builtAt": "2026-07-11T06:11:54.722970Z",
+  "totalEntries": 250554,
+  "chunkSize": 500,
+  "numChunks": 502,
+  "sources": [
+    {
+      "dataset": "shudhanshusingh/az-medicine-dataset-of-india",
+      "license": "CC BY-SA 4.0"
+    },
+    {
+      "dataset": "shudhanshusingh/250k-medicines-usage-side-effects-and-substitutes",
+      "license": "CC BY-SA 4.0"
+    }
+  ],
+  "chunks": [
+    {
+      "index": 0,
+      "file": "chunks/chunk_0000.json",
+      "count": 500,
+      "sizeBytes": 756228
+    },
+    {
+      "index": 1,
+      "file": "chunks/chunk_0001.json",
+      "count": 500,
+      "sizeBytes": 761830
+    },
+    {
+      "index": 2,
+      "file": "chunks/chunk_0002.json",
+      "count": 500,
+      "sizeBytes": 766870
+    },
+    {
+      "index": 3,
+      "file": "chunks/chunk_0003.json",
+      "count": 500,
+      "sizeBytes": 765879
+    },
+    {
+      "index": 4,
+      "file": "chunks/chunk_0004.json",
+      "count": 500,
+      "sizeBytes": 764339
+    },
+    {
+      "index": 5,
+      "file": "chunks/chunk_0005.json",
+      "count": 500,
+      "sizeBytes": 759560
+    },
+    {
+      "index": 6,
+      "file": "chunks/chunk_0006.json",
+      "count": 500,
+      "sizeBytes": 762508
+    },
+    {
+      "index": 7,
+      "file": "chunks/chunk_0007.json",
+      "count": 500,
+      "sizeBytes": 754535
+    },
+    {
+      "index": 8,
+      "file": "chunks/chunk_0008.json",
+      "count": 500,
+      "sizeBytes": 762790
+    },
+    {
+      "index": 9,
+      "file": "chunks/chunk_0009.json",
+      "count": 500,
+      "sizeBytes": 760678
+    },
+    {
+      "index": 10,
+      "file": "chunks/chunk_0010.json",
+      "count": 500,
+      "sizeBytes": 755196
+    },
+    {
+      "index": 11,
+      "file": "chunks/chunk_0011.json",
+      "count": 500,
+      "sizeBytes": 766431
+    },
+    {
+      "index": 12,
+      "file": "chunks/chunk_0012.json",
+      "count": 500,
+      "sizeBytes": 757468
+    },
+    {
+      "index": 13,
+      "file": "chunks/chunk_0013.json",
+      "count": 500,
+      "sizeBytes": 759216
+    },
+    {
+      "index": 14,
+      "file": "chunks/chunk_0014.json",
+      "count": 500,
+      "sizeBytes": 751382
+    },
+    {
+      "index": 15,
+      "file": "chunks/chunk_0015.json",
+      "count": 500,
+      "sizeBytes": 757476
+    },
+    {
+      "index": 16,
+      "file": "chunks/chunk_0016.json",
+      "count": 500,
+      "sizeBytes": 760891
+    },
+    {
+      "index": 17,
+      "file": "chunks/chunk_0017.json",
+      "count": 500,
+      "sizeBytes": 763909
+    },
+    {
+      "index": 18,
+      "file": "chunks/chunk_0018.json",
+      "count": 500,
+      "sizeBytes": 756105
+    },
+    {
+      "index": 19,
+      "file": "chunks/chunk_0019.json",
+      "count": 500,
+      "sizeBytes": 758359
+    },
+    {
+      "index": 20,
+      "file": "chunks/chunk_0020.json",
+      "count": 500,
+      "sizeBytes": 761320
+    },
+    {
+      "index": 21,
+      "file": "chunks/chunk_0021.json",
+      "count": 500,
+      "sizeBytes": 762718
+    },
+    {
+      "index": 22,
+      "file": "chunks/chunk_0022.json",
+      "count": 500,
+      "sizeBytes": 773779
+    },
+    {
+      "index": 23,
+      "file": "chunks/chunk_0023.json",
+      "count": 500,
+      "sizeBytes": 772455
+    },
+    {
+      "index": 24,
+      "file": "chunks/chunk_0024.json",
+      "count": 500,
+      "sizeBytes": 795050
+    },
+    {
+      "index": 25,
+      "file": "chunks/chunk_0025.json",
+      "count": 500,
+      "sizeBytes": 781557
+    },
+    {
+      "index": 26,
+      "file": "chunks/chunk_0026.json",
+      "count": 500,
+      "sizeBytes": 779886
+    },
+    {
+      "index": 27,
+      "file": "chunks/chunk_0027.json",
+      "count": 500,
+      "sizeBytes": 775345
+    },
+    {
+      "index": 28,
+      "file": "chunks/chunk_0028.json",
+      "count": 500,
+      "sizeBytes": 763498
+    },
+    {
+      "index": 29,
+      "file": "chunks/chunk_0029.json",
+      "count": 500,
+      "sizeBytes": 761626
+    },
+    {
+      "index": 30,
+      "file": "chunks/chunk_0030.json",
+      "count": 500,
+      "sizeBytes": 765723
+    },
+    {
+      "index": 31,
+      "file": "chunks/chunk_0031.json",
+      "count": 500,
+      "sizeBytes": 754678
+    },
+    {
+      "index": 32,
+      "file": "chunks/chunk_0032.json",
+      "count": 500,
+      "sizeBytes": 759726
+    },
+    {
+      "index": 33,
+      "file": "chunks/chunk_0033.json",
+      "count": 500,
+      "sizeBytes": 774612
+    },
+    {
+      "index": 34,
+      "file": "chunks/chunk_0034.json",
+      "count": 500,
+      "sizeBytes": 769049
+    },
+    {
+      "index": 35,
+      "file": "chunks/chunk_0035.json",
+      "count": 500,
+      "sizeBytes": 761351
+    },
+    {
+      "index": 36,
+      "file": "chunks/chunk_0036.json",
+      "count": 500,
+      "sizeBytes": 767839
+    },
+    {
+      "index": 37,
+      "file": "chunks/chunk_0037.json",
+      "count": 500,
+      "sizeBytes": 774473
+    },
+    {
+      "index": 38,
+      "file": "chunks/chunk_0038.json",
+      "count": 500,
+      "sizeBytes": 768753
+    },
+    {
+      "index": 39,
+      "file": "chunks/chunk_0039.json",
+      "count": 500,
+      "sizeBytes": 790348
+    },
+    {
+      "index": 40,
+      "file": "chunks/chunk_0040.json",
+      "count": 500,
+      "sizeBytes": 782884
+    },
+    {
+      "index": 41,
+      "file": "chunks/chunk_0041.json",
+      "count": 500,
+      "sizeBytes": 770657
+    },
+    {
+      "index": 42,
+      "file": "chunks/chunk_0042.json",
+      "count": 500,
+      "sizeBytes": 767594
+    },
+    {
+      "index": 43,
+      "file": "chunks/chunk_0043.json",
+      "count": 500,
+      "sizeBytes": 767014
+    },
+    {
+      "index": 44,
+      "file": "chunks/chunk_0044.json",
+      "count": 500,
+      "sizeBytes": 763366
+    },
+    {
+      "index": 45,
+      "file": "chunks/chunk_0045.json",
+      "count": 500,
+      "sizeBytes": 733163
+    },
+    {
+      "index": 46,
+      "file": "chunks/chunk_0046.json",
+      "count": 500,
+      "sizeBytes": 733279
+    },
+    {
+      "index": 47,
+      "file": "chunks/chunk_0047.json",
+      "count": 500,
+      "sizeBytes": 731560
+    },
+    {
+      "index": 48,
+      "file": "chunks/chunk_0048.json",
+      "count": 500,
+      "sizeBytes": 728453
+    },
+    {
+      "index": 49,
+      "file": "chunks/chunk_0049.json",
+      "count": 500,
+      "sizeBytes": 740833
+    },
+    {
+      "index": 50,
+      "file": "chunks/chunk_0050.json",
+      "count": 500,
+      "sizeBytes": 739362
+    },
+    {
+      "index": 51,
+      "file": "chunks/chunk_0051.json",
+      "count": 500,
+      "sizeBytes": 766850
+    },
+    {
+      "index": 52,
+      "file": "chunks/chunk_0052.json",
+      "count": 500,
+      "sizeBytes": 762881
+    },
+    {
+      "index": 53,
+      "file": "chunks/chunk_0053.json",
+      "count": 500,
+      "sizeBytes": 759507
+    },
+    {
+      "index": 54,
+      "file": "chunks/chunk_0054.json",
+      "count": 500,
+      "sizeBytes": 761805
+    },
+    {
+      "index": 55,
+      "file": "chunks/chunk_0055.json",
+      "count": 500,
+      "sizeBytes": 760274
+    },
+    {
+      "index": 56,
+      "file": "chunks/chunk_0056.json",
+      "count": 500,
+      "sizeBytes": 755999
+    },
+    {
+      "index": 57,
+      "file": "chunks/chunk_0057.json",
+      "count": 500,
+      "sizeBytes": 747125
+    },
+    {
+      "index": 58,
+      "file": "chunks/chunk_0058.json",
+      "count": 500,
+      "sizeBytes": 763720
+    },
+    {
+      "index": 59,
+      "file": "chunks/chunk_0059.json",
+      "count": 500,
+      "sizeBytes": 772764
+    },
+    {
+      "index": 60,
+      "file": "chunks/chunk_0060.json",
+      "count": 500,
+      "sizeBytes": 772449
+    },
+    {
+      "index": 61,
+      "file": "chunks/chunk_0061.json",
+      "count": 500,
+      "sizeBytes": 767883
+    },
+    {
+      "index": 62,
+      "file": "chunks/chunk_0062.json",
+      "count": 500,
+      "sizeBytes": 776435
+    },
+    {
+      "index": 63,
+      "file": "chunks/chunk_0063.json",
+      "count": 500,
+      "sizeBytes": 761093
+    },
+    {
+      "index": 64,
+      "file": "chunks/chunk_0064.json",
+      "count": 500,
+      "sizeBytes": 764647
+    },
+    {
+      "index": 65,
+      "file": "chunks/chunk_0065.json",
+      "count": 500,
+      "sizeBytes": 767383
+    },
+    {
+      "index": 66,
+      "file": "chunks/chunk_0066.json",
+      "count": 500,
+      "sizeBytes": 761769
+    },
+    {
+      "index": 67,
+      "file": "chunks/chunk_0067.json",
+      "count": 500,
+      "sizeBytes": 770771
+    },
+    {
+      "index": 68,
+      "file": "chunks/chunk_0068.json",
+      "count": 500,
+      "sizeBytes": 754843
+    },
+    {
+      "index": 69,
+      "file": "chunks/chunk_0069.json",
+      "count": 500,
+      "sizeBytes": 750449
+    },
+    {
+      "index": 70,
+      "file": "chunks/chunk_0070.json",
+      "count": 500,
+      "sizeBytes": 781788
+    },
+    {
+      "index": 71,
+      "file": "chunks/chunk_0071.json",
+      "count": 500,
+      "sizeBytes": 759789
+    },
+    {
+      "index": 72,
+      "file": "chunks/chunk_0072.json",
+      "count": 500,
+      "sizeBytes": 765001
+    },
+    {
+      "index": 73,
+      "file": "chunks/chunk_0073.json",
+      "count": 500,
+      "sizeBytes": 764028
+    },
+    {
+      "index": 74,
+      "file": "chunks/chunk_0074.json",
+      "count": 500,
+      "sizeBytes": 764546
+    },
+    {
+      "index": 75,
+      "file": "chunks/chunk_0075.json",
+      "count": 500,
+      "sizeBytes": 771213
+    },
+    {
+      "index": 76,
+      "file": "chunks/chunk_0076.json",
+      "count": 500,
+      "sizeBytes": 773412
+    },
+    {
+      "index": 77,
+      "file": "chunks/chunk_0077.json",
+      "count": 500,
+      "sizeBytes": 777117
+    },
+    {
+      "index": 78,
+      "file": "chunks/chunk_0078.json",
+      "count": 500,
+      "sizeBytes": 771687
+    },
+    {
+      "index": 79,
+      "file": "chunks/chunk_0079.json",
+      "count": 500,
+      "sizeBytes": 776264
+    },
+    {
+      "index": 80,
+      "file": "chunks/chunk_0080.json",
+      "count": 500,
+      "sizeBytes": 768130
+    },
+    {
+      "index": 81,
+      "file": "chunks/chunk_0081.json",
+      "count": 500,
+      "sizeBytes": 769195
+    },
+    {
+      "index": 82,
+      "file": "chunks/chunk_0082.json",
+      "count": 500,
+      "sizeBytes": 755796
+    },
+    {
+      "index": 83,
+      "file": "chunks/chunk_0083.json",
+      "count": 500,
+      "sizeBytes": 768903
+    },
+    {
+      "index": 84,
+      "file": "chunks/chunk_0084.json",
+      "count": 500,
+      "sizeBytes": 766958
+    },
+    {
+      "index": 85,
+      "file": "chunks/chunk_0085.json",
+      "count": 500,
+      "sizeBytes": 773586
+    },
+    {
+      "index": 86,
+      "file": "chunks/chunk_0086.json",
+      "count": 500,
+      "sizeBytes": 745773
+    },
+    {
+      "index": 87,
+      "file": "chunks/chunk_0087.json",
+      "count": 500,
+      "sizeBytes": 753963
+    },
+    {
+      "index": 88,
+      "file": "chunks/chunk_0088.json",
+      "count": 500,
+      "sizeBytes": 774027
+    },
+    {
+      "index": 89,
+      "file": "chunks/chunk_0089.json",
+      "count": 500,
+      "sizeBytes": 759111
+    },
+    {
+      "index": 90,
+      "file": "chunks/chunk_0090.json",
+      "count": 500,
+      "sizeBytes": 812592
+    },
+    {
+      "index": 91,
+      "file": "chunks/chunk_0091.json",
+      "count": 500,
+      "sizeBytes": 753159
+    },
+    {
+      "index": 92,
+      "file": "chunks/chunk_0092.json",
+      "count": 500,
+      "sizeBytes": 759307
+    },
+    {
+      "index": 93,
+      "file": "chunks/chunk_0093.json",
+      "count": 500,
+      "sizeBytes": 778554
+    },
+    {
+      "index": 94,
+      "file": "chunks/chunk_0094.json",
+      "count": 500,
+      "sizeBytes": 774658
+    },
+    {
+      "index": 95,
+      "file": "chunks/chunk_0095.json",
+      "count": 500,
+      "sizeBytes": 777056
+    },
+    {
+      "index": 96,
+      "file": "chunks/chunk_0096.json",
+      "count": 500,
+      "sizeBytes": 769389
+    },
+    {
+      "index": 97,
+      "file": "chunks/chunk_0097.json",
+      "count": 500,
+      "sizeBytes": 754915
+    },
+    {
+      "index": 98,
+      "file": "chunks/chunk_0098.json",
+      "count": 500,
+      "sizeBytes": 753884
+    },
+    {
+      "index": 99,
+      "file": "chunks/chunk_0099.json",
+      "count": 500,
+      "sizeBytes": 759178
+    },
+    {
+      "index": 100,
+      "file": "chunks/chunk_0100.json",
+      "count": 500,
+      "sizeBytes": 762003
+    },
+    {
+      "index": 101,
+      "file": "chunks/chunk_0101.json",
+      "count": 500,
+      "sizeBytes": 769800
+    },
+    {
+      "index": 102,
+      "file": "chunks/chunk_0102.json",
+      "count": 500,
+      "sizeBytes": 774523
+    },
+    {
+      "index": 103,
+      "file": "chunks/chunk_0103.json",
+      "count": 500,
+      "sizeBytes": 790641
+    },
+    {
+      "index": 104,
+      "file": "chunks/chunk_0104.json",
+      "count": 500,
+      "sizeBytes": 775806
+    },
+    {
+      "index": 105,
+      "file": "chunks/chunk_0105.json",
+      "count": 500,
+      "sizeBytes": 763383
+    },
+    {
+      "index": 106,
+      "file": "chunks/chunk_0106.json",
+      "count": 500,
+      "sizeBytes": 778932
+    },
+    {
+      "index": 107,
+      "file": "chunks/chunk_0107.json",
+      "count": 500,
+      "sizeBytes": 782809
+    },
+    {
+      "index": 108,
+      "file": "chunks/chunk_0108.json",
+      "count": 500,
+      "sizeBytes": 760751
+    },
+    {
+      "index": 109,
+      "file": "chunks/chunk_0109.json",
+      "count": 500,
+      "sizeBytes": 763244
+    },
+    {
+      "index": 110,
+      "file": "chunks/chunk_0110.json",
+      "count": 500,
+      "sizeBytes": 775931
+    },
+    {
+      "index": 111,
+      "file": "chunks/chunk_0111.json",
+      "count": 500,
+      "sizeBytes": 764459
+    },
+    {
+      "index": 112,
+      "file": "chunks/chunk_0112.json",
+      "count": 500,
+      "sizeBytes": 770293
+    },
+    {
+      "index": 113,
+      "file": "chunks/chunk_0113.json",
+      "count": 500,
+      "sizeBytes": 755258
+    },
+    {
+      "index": 114,
+      "file": "chunks/chunk_0114.json",
+      "count": 500,
+      "sizeBytes": 767082
+    },
+    {
+      "index": 115,
+      "file": "chunks/chunk_0115.json",
+      "count": 500,
+      "sizeBytes": 771402
+    },
+    {
+      "index": 116,
+      "file": "chunks/chunk_0116.json",
+      "count": 500,
+      "sizeBytes": 788876
+    },
+    {
+      "index": 117,
+      "file": "chunks/chunk_0117.json",
+      "count": 500,
+      "sizeBytes": 793271
+    },
+    {
+      "index": 118,
+      "file": "chunks/chunk_0118.json",
+      "count": 500,
+      "sizeBytes": 770579
+    },
+    {
+      "index": 119,
+      "file": "chunks/chunk_0119.json",
+      "count": 500,
+      "sizeBytes": 772528
+    },
+    {
+      "index": 120,
+      "file": "chunks/chunk_0120.json",
+      "count": 500,
+      "sizeBytes": 818025
+    },
+    {
+      "index": 121,
+      "file": "chunks/chunk_0121.json",
+      "count": 500,
+      "sizeBytes": 789264
+    },
+    {
+      "index": 122,
+      "file": "chunks/chunk_0122.json",
+      "count": 500,
+      "sizeBytes": 777767
+    },
+    {
+      "index": 123,
+      "file": "chunks/chunk_0123.json",
+      "count": 500,
+      "sizeBytes": 760578
+    },
+    {
+      "index": 124,
+      "file": "chunks/chunk_0124.json",
+      "count": 500,
+      "sizeBytes": 750060
+    },
+    {
+      "index": 125,
+      "file": "chunks/chunk_0125.json",
+      "count": 500,
+      "sizeBytes": 766329
+    },
+    {
+      "index": 126,
+      "file": "chunks/chunk_0126.json",
+      "count": 500,
+      "sizeBytes": 767051
+    },
+    {
+      "index": 127,
+      "file": "chunks/chunk_0127.json",
+      "count": 500,
+      "sizeBytes": 772460
+    },
+    {
+      "index": 128,
+      "file": "chunks/chunk_0128.json",
+      "count": 500,
+      "sizeBytes": 775625
+    },
+    {
+      "index": 129,
+      "file": "chunks/chunk_0129.json",
+      "count": 500,
+      "sizeBytes": 761859
+    },
+    {
+      "index": 130,
+      "file": "chunks/chunk_0130.json",
+      "count": 500,
+      "sizeBytes": 771400
+    },
+    {
+      "index": 131,
+      "file": "chunks/chunk_0131.json",
+      "count": 500,
+      "sizeBytes": 781106
+    },
+    {
+      "index": 132,
+      "file": "chunks/chunk_0132.json",
+      "count": 500,
+      "sizeBytes": 765618
+    },
+    {
+      "index": 133,
+      "file": "chunks/chunk_0133.json",
+      "count": 500,
+      "sizeBytes": 757205
+    },
+    {
+      "index": 134,
+      "file": "chunks/chunk_0134.json",
+      "count": 500,
+      "sizeBytes": 757543
+    },
+    {
+      "index": 135,
+      "file": "chunks/chunk_0135.json",
+      "count": 500,
+      "sizeBytes": 805856
+    },
+    {
+      "index": 136,
+      "file": "chunks/chunk_0136.json",
+      "count": 500,
+      "sizeBytes": 776722
+    },
+    {
+      "index": 137,
+      "file": "chunks/chunk_0137.json",
+      "count": 500,
+      "sizeBytes": 789232
+    },
+    {
+      "index": 138,
+      "file": "chunks/chunk_0138.json",
+      "count": 500,
+      "sizeBytes": 832073
+    },
+    {
+      "index": 139,
+      "file": "chunks/chunk_0139.json",
+      "count": 500,
+      "sizeBytes": 769550
+    },
+    {
+      "index": 140,
+      "file": "chunks/chunk_0140.json",
+      "count": 500,
+      "sizeBytes": 763199
+    },
+    {
+      "index": 141,
+      "file": "chunks/chunk_0141.json",
+      "count": 500,
+      "sizeBytes": 770540
+    },
+    {
+      "index": 142,
+      "file": "chunks/chunk_0142.json",
+      "count": 500,
+      "sizeBytes": 752401
+    },
+    {
+      "index": 143,
+      "file": "chunks/chunk_0143.json",
+      "count": 500,
+      "sizeBytes": 765347
+    },
+    {
+      "index": 144,
+      "file": "chunks/chunk_0144.json",
+      "count": 500,
+      "sizeBytes": 768448
+    },
+    {
+      "index": 145,
+      "file": "chunks/chunk_0145.json",
+      "count": 500,
+      "sizeBytes": 768495
+    },
+    {
+      "index": 146,
+      "file": "chunks/chunk_0146.json",
+      "count": 500,
+      "sizeBytes": 772569
+    },
+    {
+      "index": 147,
+      "file": "chunks/chunk_0147.json",
+      "count": 500,
+      "sizeBytes": 771825
+    },
+    {
+      "index": 148,
+      "file": "chunks/chunk_0148.json",
+      "count": 500,
+      "sizeBytes": 752058
+    },
+    {
+      "index": 149,
+      "file": "chunks/chunk_0149.json",
+      "count": 500,
+      "sizeBytes": 767307
+    },
+    {
+      "index": 150,
+      "file": "chunks/chunk_0150.json",
+      "count": 500,
+      "sizeBytes": 765276
+    },
+    {
+      "index": 151,
+      "file": "chunks/chunk_0151.json",
+      "count": 500,
+      "sizeBytes": 741041
+    },
+    {
+      "index": 152,
+      "file": "chunks/chunk_0152.json",
+      "count": 500,
+      "sizeBytes": 810605
+    },
+    {
+      "index": 153,
+      "file": "chunks/chunk_0153.json",
+      "count": 500,
+      "sizeBytes": 766082
+    },
+    {
+      "index": 154,
+      "file": "chunks/chunk_0154.json",
+      "count": 500,
+      "sizeBytes": 801538
+    },
+    {
+      "index": 155,
+      "file": "chunks/chunk_0155.json",
+      "count": 500,
+      "sizeBytes": 791149
+    },
+    {
+      "index": 156,
+      "file": "chunks/chunk_0156.json",
+      "count": 500,
+      "sizeBytes": 786869
+    },
+    {
+      "index": 157,
+      "file": "chunks/chunk_0157.json",
+      "count": 500,
+      "sizeBytes": 779148
+    },
+    {
+      "index": 158,
+      "file": "chunks/chunk_0158.json",
+      "count": 500,
+      "sizeBytes": 777096
+    },
+    {
+      "index": 159,
+      "file": "chunks/chunk_0159.json",
+      "count": 500,
+      "sizeBytes": 742397
+    },
+    {
+      "index": 160,
+      "file": "chunks/chunk_0160.json",
+      "count": 500,
+      "sizeBytes": 744140
+    },
+    {
+      "index": 161,
+      "file": "chunks/chunk_0161.json",
+      "count": 500,
+      "sizeBytes": 758710
+    },
+    {
+      "index": 162,
+      "file": "chunks/chunk_0162.json",
+      "count": 500,
+      "sizeBytes": 768898
+    },
+    {
+      "index": 163,
+      "file": "chunks/chunk_0163.json",
+      "count": 500,
+      "sizeBytes": 765769
+    },
+    {
+      "index": 164,
+      "file": "chunks/chunk_0164.json",
+      "count": 500,
+      "sizeBytes": 759382
+    },
+    {
+      "index": 165,
+      "file": "chunks/chunk_0165.json",
+      "count": 500,
+      "sizeBytes": 653791
+    },
+    {
+      "index": 166,
+      "file": "chunks/chunk_0166.json",
+      "count": 500,
+      "sizeBytes": 673463
+    },
+    {
+      "index": 167,
+      "file": "chunks/chunk_0167.json",
+      "count": 500,
+      "sizeBytes": 646169
+    },
+    {
+      "index": 168,
+      "file": "chunks/chunk_0168.json",
+      "count": 500,
+      "sizeBytes": 660995
+    },
+    {
+      "index": 169,
+      "file": "chunks/chunk_0169.json",
+      "count": 500,
+      "sizeBytes": 671032
+    },
+    {
+      "index": 170,
+      "file": "chunks/chunk_0170.json",
+      "count": 500,
+      "sizeBytes": 680123
+    },
+    {
+      "index": 171,
+      "file": "chunks/chunk_0171.json",
+      "count": 500,
+      "sizeBytes": 673179
+    },
+    {
+      "index": 172,
+      "file": "chunks/chunk_0172.json",
+      "count": 500,
+      "sizeBytes": 680546
+    },
+    {
+      "index": 173,
+      "file": "chunks/chunk_0173.json",
+      "count": 500,
+      "sizeBytes": 648854
+    },
+    {
+      "index": 174,
+      "file": "chunks/chunk_0174.json",
+      "count": 500,
+      "sizeBytes": 662907
+    },
+    {
+      "index": 175,
+      "file": "chunks/chunk_0175.json",
+      "count": 500,
+      "sizeBytes": 688593
+    },
+    {
+      "index": 176,
+      "file": "chunks/chunk_0176.json",
+      "count": 500,
+      "sizeBytes": 647361
+    },
+    {
+      "index": 177,
+      "file": "chunks/chunk_0177.json",
+      "count": 500,
+      "sizeBytes": 675510
+    },
+    {
+      "index": 178,
+      "file": "chunks/chunk_0178.json",
+      "count": 500,
+      "sizeBytes": 716898
+    },
+    {
+      "index": 179,
+      "file": "chunks/chunk_0179.json",
+      "count": 500,
+      "sizeBytes": 704980
+    },
+    {
+      "index": 180,
+      "file": "chunks/chunk_0180.json",
+      "count": 500,
+      "sizeBytes": 696520
+    },
+    {
+      "index": 181,
+      "file": "chunks/chunk_0181.json",
+      "count": 500,
+      "sizeBytes": 672165
+    },
+    {
+      "index": 182,
+      "file": "chunks/chunk_0182.json",
+      "count": 500,
+      "sizeBytes": 694013
+    },
+    {
+      "index": 183,
+      "file": "chunks/chunk_0183.json",
+      "count": 500,
+      "sizeBytes": 665173
+    },
+    {
+      "index": 184,
+      "file": "chunks/chunk_0184.json",
+      "count": 500,
+      "sizeBytes": 682051
+    },
+    {
+      "index": 185,
+      "file": "chunks/chunk_0185.json",
+      "count": 500,
+      "sizeBytes": 790085
+    },
+    {
+      "index": 186,
+      "file": "chunks/chunk_0186.json",
+      "count": 500,
+      "sizeBytes": 778230
+    },
+    {
+      "index": 187,
+      "file": "chunks/chunk_0187.json",
+      "count": 500,
+      "sizeBytes": 761256
+    },
+    {
+      "index": 188,
+      "file": "chunks/chunk_0188.json",
+      "count": 500,
+      "sizeBytes": 762798
+    },
+    {
+      "index": 189,
+      "file": "chunks/chunk_0189.json",
+      "count": 500,
+      "sizeBytes": 797811
+    },
+    {
+      "index": 190,
+      "file": "chunks/chunk_0190.json",
+      "count": 500,
+      "sizeBytes": 773157
+    },
+    {
+      "index": 191,
+      "file": "chunks/chunk_0191.json",
+      "count": 500,
+      "sizeBytes": 780727
+    },
+    {
+      "index": 192,
+      "file": "chunks/chunk_0192.json",
+      "count": 500,
+      "sizeBytes": 762580
+    },
+    {
+      "index": 193,
+      "file": "chunks/chunk_0193.json",
+      "count": 500,
+      "sizeBytes": 766663
+    },
+    {
+      "index": 194,
+      "file": "chunks/chunk_0194.json",
+      "count": 500,
+      "sizeBytes": 776822
+    },
+    {
+      "index": 195,
+      "file": "chunks/chunk_0195.json",
+      "count": 500,
+      "sizeBytes": 781039
+    },
+    {
+      "index": 196,
+      "file": "chunks/chunk_0196.json",
+      "count": 500,
+      "sizeBytes": 780441
+    },
+    {
+      "index": 197,
+      "file": "chunks/chunk_0197.json",
+      "count": 500,
+      "sizeBytes": 765943
+    },
+    {
+      "index": 198,
+      "file": "chunks/chunk_0198.json",
+      "count": 500,
+      "sizeBytes": 772059
+    },
+    {
+      "index": 199,
+      "file": "chunks/chunk_0199.json",
+      "count": 500,
+      "sizeBytes": 770760
+    },
+    {
+      "index": 200,
+      "file": "chunks/chunk_0200.json",
+      "count": 500,
+      "sizeBytes": 773262
+    },
+    {
+      "index": 201,
+      "file": "chunks/chunk_0201.json",
+      "count": 500,
+      "sizeBytes": 765767
+    },
+    {
+      "index": 202,
+      "file": "chunks/chunk_0202.json",
+      "count": 500,
+      "sizeBytes": 770902
+    },
+    {
+      "index": 203,
+      "file": "chunks/chunk_0203.json",
+      "count": 500,
+      "sizeBytes": 770612
+    },
+    {
+      "index": 204,
+      "file": "chunks/chunk_0204.json",
+      "count": 500,
+      "sizeBytes": 756796
+    },
+    {
+      "index": 205,
+      "file": "chunks/chunk_0205.json",
+      "count": 500,
+      "sizeBytes": 764756
+    },
+    {
+      "index": 206,
+      "file": "chunks/chunk_0206.json",
+      "count": 500,
+      "sizeBytes": 764757
+    },
+    {
+      "index": 207,
+      "file": "chunks/chunk_0207.json",
+      "count": 500,
+      "sizeBytes": 759171
+    },
+    {
+      "index": 208,
+      "file": "chunks/chunk_0208.json",
+      "count": 500,
+      "sizeBytes": 757950
+    },
+    {
+      "index": 209,
+      "file": "chunks/chunk_0209.json",
+      "count": 500,
+      "sizeBytes": 774571
+    },
+    {
+      "index": 210,
+      "file": "chunks/chunk_0210.json",
+      "count": 500,
+      "sizeBytes": 760990
+    },
+    {
+      "index": 211,
+      "file": "chunks/chunk_0211.json",
+      "count": 500,
+      "sizeBytes": 762463
+    },
+    {
+      "index": 212,
+      "file": "chunks/chunk_0212.json",
+      "count": 500,
+      "sizeBytes": 762607
+    },
+    {
+      "index": 213,
+      "file": "chunks/chunk_0213.json",
+      "count": 500,
+      "sizeBytes": 762713
+    },
+    {
+      "index": 214,
+      "file": "chunks/chunk_0214.json",
+      "count": 500,
+      "sizeBytes": 769673
+    },
+    {
+      "index": 215,
+      "file": "chunks/chunk_0215.json",
+      "count": 500,
+      "sizeBytes": 763174
+    },
+    {
+      "index": 216,
+      "file": "chunks/chunk_0216.json",
+      "count": 500,
+      "sizeBytes": 774522
+    },
+    {
+      "index": 217,
+      "file": "chunks/chunk_0217.json",
+      "count": 500,
+      "sizeBytes": 766466
+    },
+    {
+      "index": 218,
+      "file": "chunks/chunk_0218.json",
+      "count": 500,
+      "sizeBytes": 766139
+    },
+    {
+      "index": 219,
+      "file": "chunks/chunk_0219.json",
+      "count": 500,
+      "sizeBytes": 751106
+    },
+    {
+      "index": 220,
+      "file": "chunks/chunk_0220.json",
+      "count": 500,
+      "sizeBytes": 744007
+    },
+    {
+      "index": 221,
+      "file": "chunks/chunk_0221.json",
+      "count": 500,
+      "sizeBytes": 739133
+    },
+    {
+      "index": 222,
+      "file": "chunks/chunk_0222.json",
+      "count": 500,
+      "sizeBytes": 741769
+    },
+    {
+      "index": 223,
+      "file": "chunks/chunk_0223.json",
+      "count": 500,
+      "sizeBytes": 757637
+    },
+    {
+      "index": 224,
+      "file": "chunks/chunk_0224.json",
+      "count": 500,
+      "sizeBytes": 774274
+    },
+    {
+      "index": 225,
+      "file": "chunks/chunk_0225.json",
+      "count": 500,
+      "sizeBytes": 781535
+    },
+    {
+      "index": 226,
+      "file": "chunks/chunk_0226.json",
+      "count": 500,
+      "sizeBytes": 776885
+    },
+    {
+      "index": 227,
+      "file": "chunks/chunk_0227.json",
+      "count": 500,
+      "sizeBytes": 769977
+    },
+    {
+      "index": 228,
+      "file": "chunks/chunk_0228.json",
+      "count": 500,
+      "sizeBytes": 771062
+    },
+    {
+      "index": 229,
+      "file": "chunks/chunk_0229.json",
+      "count": 500,
+      "sizeBytes": 769462
+    },
+    {
+      "index": 230,
+      "file": "chunks/chunk_0230.json",
+      "count": 500,
+      "sizeBytes": 776769
+    },
+    {
+      "index": 231,
+      "file": "chunks/chunk_0231.json",
+      "count": 500,
+      "sizeBytes": 774696
+    },
+    {
+      "index": 232,
+      "file": "chunks/chunk_0232.json",
+      "count": 500,
+      "sizeBytes": 771225
+    },
+    {
+      "index": 233,
+      "file": "chunks/chunk_0233.json",
+      "count": 500,
+      "sizeBytes": 766627
+    },
+    {
+      "index": 234,
+      "file": "chunks/chunk_0234.json",
+      "count": 500,
+      "sizeBytes": 777687
+    },
+    {
+      "index": 235,
+      "file": "chunks/chunk_0235.json",
+      "count": 500,
+      "sizeBytes": 779504
+    },
+    {
+      "index": 236,
+      "file": "chunks/chunk_0236.json",
+      "count": 500,
+      "sizeBytes": 770023
+    },
+    {
+      "index": 237,
+      "file": "chunks/chunk_0237.json",
+      "count": 500,
+      "sizeBytes": 758654
+    },
+    {
+      "index": 238,
+      "file": "chunks/chunk_0238.json",
+      "count": 500,
+      "sizeBytes": 765504
+    },
+    {
+      "index": 239,
+      "file": "chunks/chunk_0239.json",
+      "count": 500,
+      "sizeBytes": 770428
+    },
+    {
+      "index": 240,
+      "file": "chunks/chunk_0240.json",
+      "count": 500,
+      "sizeBytes": 765765
+    },
+    {
+      "index": 241,
+      "file": "chunks/chunk_0241.json",
+      "count": 500,
+      "sizeBytes": 762111
+    },
+    {
+      "index": 242,
+      "file": "chunks/chunk_0242.json",
+      "count": 500,
+      "sizeBytes": 765353
+    },
+    {
+      "index": 243,
+      "file": "chunks/chunk_0243.json",
+      "count": 500,
+      "sizeBytes": 772835
+    },
+    {
+      "index": 244,
+      "file": "chunks/chunk_0244.json",
+      "count": 500,
+      "sizeBytes": 767657
+    },
+    {
+      "index": 245,
+      "file": "chunks/chunk_0245.json",
+      "count": 500,
+      "sizeBytes": 774139
+    },
+    {
+      "index": 246,
+      "file": "chunks/chunk_0246.json",
+      "count": 500,
+      "sizeBytes": 753999
+    },
+    {
+      "index": 247,
+      "file": "chunks/chunk_0247.json",
+      "count": 500,
+      "sizeBytes": 757520
+    },
+    {
+      "index": 248,
+      "file": "chunks/chunk_0248.json",
+      "count": 500,
+      "sizeBytes": 763290
+    },
+    {
+      "index": 249,
+      "file": "chunks/chunk_0249.json",
+      "count": 500,
+      "sizeBytes": 762820
+    },
+    {
+      "index": 250,
+      "file": "chunks/chunk_0250.json",
+      "count": 500,
+      "sizeBytes": 763772
+    },
+    {
+      "index": 251,
+      "file": "chunks/chunk_0251.json",
+      "count": 500,
+      "sizeBytes": 780596
+    },
+    {
+      "index": 252,
+      "file": "chunks/chunk_0252.json",
+      "count": 500,
+      "sizeBytes": 761983
+    },
+    {
+      "index": 253,
+      "file": "chunks/chunk_0253.json",
+      "count": 500,
+      "sizeBytes": 765677
+    },
+    {
+      "index": 254,
+      "file": "chunks/chunk_0254.json",
+      "count": 500,
+      "sizeBytes": 752492
+    },
+    {
+      "index": 255,
+      "file": "chunks/chunk_0255.json",
+      "count": 500,
+      "sizeBytes": 736047
+    },
+    {
+      "index": 256,
+      "file": "chunks/chunk_0256.json",
+      "count": 500,
+      "sizeBytes": 791392
+    },
+    {
+      "index": 257,
+      "file": "chunks/chunk_0257.json",
+      "count": 500,
+      "sizeBytes": 763992
+    },
+    {
+      "index": 258,
+      "file": "chunks/chunk_0258.json",
+      "count": 500,
+      "sizeBytes": 741705
+    },
+    {
+      "index": 259,
+      "file": "chunks/chunk_0259.json",
+      "count": 500,
+      "sizeBytes": 760970
+    },
+    {
+      "index": 260,
+      "file": "chunks/chunk_0260.json",
+      "count": 500,
+      "sizeBytes": 765842
+    },
+    {
+      "index": 261,
+      "file": "chunks/chunk_0261.json",
+      "count": 500,
+      "sizeBytes": 769914
+    },
+    {
+      "index": 262,
+      "file": "chunks/chunk_0262.json",
+      "count": 500,
+      "sizeBytes": 780694
+    },
+    {
+      "index": 263,
+      "file": "chunks/chunk_0263.json",
+      "count": 500,
+      "sizeBytes": 764061
+    },
+    {
+      "index": 264,
+      "file": "chunks/chunk_0264.json",
+      "count": 500,
+      "sizeBytes": 772827
+    },
+    {
+      "index": 265,
+      "file": "chunks/chunk_0265.json",
+      "count": 500,
+      "sizeBytes": 772593
+    },
+    {
+      "index": 266,
+      "file": "chunks/chunk_0266.json",
+      "count": 500,
+      "sizeBytes": 772442
+    },
+    {
+      "index": 267,
+      "file": "chunks/chunk_0267.json",
+      "count": 500,
+      "sizeBytes": 763443
+    },
+    {
+      "index": 268,
+      "file": "chunks/chunk_0268.json",
+      "count": 500,
+      "sizeBytes": 769542
+    },
+    {
+      "index": 269,
+      "file": "chunks/chunk_0269.json",
+      "count": 500,
+      "sizeBytes": 784525
+    },
+    {
+      "index": 270,
+      "file": "chunks/chunk_0270.json",
+      "count": 500,
+      "sizeBytes": 805655
+    },
+    {
+      "index": 271,
+      "file": "chunks/chunk_0271.json",
+      "count": 500,
+      "sizeBytes": 777154
+    },
+    {
+      "index": 272,
+      "file": "chunks/chunk_0272.json",
+      "count": 500,
+      "sizeBytes": 763153
+    },
+    {
+      "index": 273,
+      "file": "chunks/chunk_0273.json",
+      "count": 500,
+      "sizeBytes": 777012
+    },
+    {
+      "index": 274,
+      "file": "chunks/chunk_0274.json",
+      "count": 500,
+      "sizeBytes": 770830
+    },
+    {
+      "index": 275,
+      "file": "chunks/chunk_0275.json",
+      "count": 500,
+      "sizeBytes": 782004
+    },
+    {
+      "index": 276,
+      "file": "chunks/chunk_0276.json",
+      "count": 500,
+      "sizeBytes": 793250
+    },
+    {
+      "index": 277,
+      "file": "chunks/chunk_0277.json",
+      "count": 500,
+      "sizeBytes": 813273
+    },
+    {
+      "index": 278,
+      "file": "chunks/chunk_0278.json",
+      "count": 500,
+      "sizeBytes": 773063
+    },
+    {
+      "index": 279,
+      "file": "chunks/chunk_0279.json",
+      "count": 500,
+      "sizeBytes": 763801
+    },
+    {
+      "index": 280,
+      "file": "chunks/chunk_0280.json",
+      "count": 500,
+      "sizeBytes": 756399
+    },
+    {
+      "index": 281,
+      "file": "chunks/chunk_0281.json",
+      "count": 500,
+      "sizeBytes": 762953
+    },
+    {
+      "index": 282,
+      "file": "chunks/chunk_0282.json",
+      "count": 500,
+      "sizeBytes": 759973
+    },
+    {
+      "index": 283,
+      "file": "chunks/chunk_0283.json",
+      "count": 500,
+      "sizeBytes": 770608
+    },
+    {
+      "index": 284,
+      "file": "chunks/chunk_0284.json",
+      "count": 500,
+      "sizeBytes": 767295
+    },
+    {
+      "index": 285,
+      "file": "chunks/chunk_0285.json",
+      "count": 500,
+      "sizeBytes": 782406
+    },
+    {
+      "index": 286,
+      "file": "chunks/chunk_0286.json",
+      "count": 500,
+      "sizeBytes": 794193
+    },
+    {
+      "index": 287,
+      "file": "chunks/chunk_0287.json",
+      "count": 500,
+      "sizeBytes": 766201
+    },
+    {
+      "index": 288,
+      "file": "chunks/chunk_0288.json",
+      "count": 500,
+      "sizeBytes": 775733
+    },
+    {
+      "index": 289,
+      "file": "chunks/chunk_0289.json",
+      "count": 500,
+      "sizeBytes": 776257
+    },
+    {
+      "index": 290,
+      "file": "chunks/chunk_0290.json",
+      "count": 500,
+      "sizeBytes": 778999
+    },
+    {
+      "index": 291,
+      "file": "chunks/chunk_0291.json",
+      "count": 500,
+      "sizeBytes": 781038
+    },
+    {
+      "index": 292,
+      "file": "chunks/chunk_0292.json",
+      "count": 500,
+      "sizeBytes": 751994
+    },
+    {
+      "index": 293,
+      "file": "chunks/chunk_0293.json",
+      "count": 500,
+      "sizeBytes": 770425
+    },
+    {
+      "index": 294,
+      "file": "chunks/chunk_0294.json",
+      "count": 500,
+      "sizeBytes": 762522
+    },
+    {
+      "index": 295,
+      "file": "chunks/chunk_0295.json",
+      "count": 500,
+      "sizeBytes": 728008
+    },
+    {
+      "index": 296,
+      "file": "chunks/chunk_0296.json",
+      "count": 500,
+      "sizeBytes": 730126
+    },
+    {
+      "index": 297,
+      "file": "chunks/chunk_0297.json",
+      "count": 500,
+      "sizeBytes": 737374
+    },
+    {
+      "index": 298,
+      "file": "chunks/chunk_0298.json",
+      "count": 500,
+      "sizeBytes": 754581
+    },
+    {
+      "index": 299,
+      "file": "chunks/chunk_0299.json",
+      "count": 500,
+      "sizeBytes": 740998
+    },
+    {
+      "index": 300,
+      "file": "chunks/chunk_0300.json",
+      "count": 500,
+      "sizeBytes": 738317
+    },
+    {
+      "index": 301,
+      "file": "chunks/chunk_0301.json",
+      "count": 500,
+      "sizeBytes": 748782
+    },
+    {
+      "index": 302,
+      "file": "chunks/chunk_0302.json",
+      "count": 500,
+      "sizeBytes": 743478
+    },
+    {
+      "index": 303,
+      "file": "chunks/chunk_0303.json",
+      "count": 500,
+      "sizeBytes": 751982
+    },
+    {
+      "index": 304,
+      "file": "chunks/chunk_0304.json",
+      "count": 500,
+      "sizeBytes": 746206
+    },
+    {
+      "index": 305,
+      "file": "chunks/chunk_0305.json",
+      "count": 500,
+      "sizeBytes": 753610
+    },
+    {
+      "index": 306,
+      "file": "chunks/chunk_0306.json",
+      "count": 500,
+      "sizeBytes": 733687
+    },
+    {
+      "index": 307,
+      "file": "chunks/chunk_0307.json",
+      "count": 500,
+      "sizeBytes": 716873
+    },
+    {
+      "index": 308,
+      "file": "chunks/chunk_0308.json",
+      "count": 500,
+      "sizeBytes": 713790
+    },
+    {
+      "index": 309,
+      "file": "chunks/chunk_0309.json",
+      "count": 500,
+      "sizeBytes": 709247
+    },
+    {
+      "index": 310,
+      "file": "chunks/chunk_0310.json",
+      "count": 500,
+      "sizeBytes": 733123
+    },
+    {
+      "index": 311,
+      "file": "chunks/chunk_0311.json",
+      "count": 500,
+      "sizeBytes": 736313
+    },
+    {
+      "index": 312,
+      "file": "chunks/chunk_0312.json",
+      "count": 500,
+      "sizeBytes": 738774
+    },
+    {
+      "index": 313,
+      "file": "chunks/chunk_0313.json",
+      "count": 500,
+      "sizeBytes": 747613
+    },
+    {
+      "index": 314,
+      "file": "chunks/chunk_0314.json",
+      "count": 500,
+      "sizeBytes": 749617
+    },
+    {
+      "index": 315,
+      "file": "chunks/chunk_0315.json",
+      "count": 500,
+      "sizeBytes": 736180
+    },
+    {
+      "index": 316,
+      "file": "chunks/chunk_0316.json",
+      "count": 500,
+      "sizeBytes": 735339
+    },
+    {
+      "index": 317,
+      "file": "chunks/chunk_0317.json",
+      "count": 500,
+      "sizeBytes": 743660
+    },
+    {
+      "index": 318,
+      "file": "chunks/chunk_0318.json",
+      "count": 500,
+      "sizeBytes": 742889
+    },
+    {
+      "index": 319,
+      "file": "chunks/chunk_0319.json",
+      "count": 500,
+      "sizeBytes": 740841
+    },
+    {
+      "index": 320,
+      "file": "chunks/chunk_0320.json",
+      "count": 500,
+      "sizeBytes": 765866
+    },
+    {
+      "index": 321,
+      "file": "chunks/chunk_0321.json",
+      "count": 500,
+      "sizeBytes": 759516
+    },
+    {
+      "index": 322,
+      "file": "chunks/chunk_0322.json",
+      "count": 500,
+      "sizeBytes": 746374
+    },
+    {
+      "index": 323,
+      "file": "chunks/chunk_0323.json",
+      "count": 500,
+      "sizeBytes": 751371
+    },
+    {
+      "index": 324,
+      "file": "chunks/chunk_0324.json",
+      "count": 500,
+      "sizeBytes": 750637
+    },
+    {
+      "index": 325,
+      "file": "chunks/chunk_0325.json",
+      "count": 500,
+      "sizeBytes": 747968
+    },
+    {
+      "index": 326,
+      "file": "chunks/chunk_0326.json",
+      "count": 500,
+      "sizeBytes": 783166
+    },
+    {
+      "index": 327,
+      "file": "chunks/chunk_0327.json",
+      "count": 500,
+      "sizeBytes": 785475
+    },
+    {
+      "index": 328,
+      "file": "chunks/chunk_0328.json",
+      "count": 500,
+      "sizeBytes": 825295
+    },
+    {
+      "index": 329,
+      "file": "chunks/chunk_0329.json",
+      "count": 500,
+      "sizeBytes": 794324
+    },
+    {
+      "index": 330,
+      "file": "chunks/chunk_0330.json",
+      "count": 500,
+      "sizeBytes": 775594
+    },
+    {
+      "index": 331,
+      "file": "chunks/chunk_0331.json",
+      "count": 500,
+      "sizeBytes": 771317
+    },
+    {
+      "index": 332,
+      "file": "chunks/chunk_0332.json",
+      "count": 500,
+      "sizeBytes": 767651
+    },
+    {
+      "index": 333,
+      "file": "chunks/chunk_0333.json",
+      "count": 500,
+      "sizeBytes": 737364
+    },
+    {
+      "index": 334,
+      "file": "chunks/chunk_0334.json",
+      "count": 500,
+      "sizeBytes": 745216
+    },
+    {
+      "index": 335,
+      "file": "chunks/chunk_0335.json",
+      "count": 500,
+      "sizeBytes": 766101
+    },
+    {
+      "index": 336,
+      "file": "chunks/chunk_0336.json",
+      "count": 500,
+      "sizeBytes": 758261
+    },
+    {
+      "index": 337,
+      "file": "chunks/chunk_0337.json",
+      "count": 500,
+      "sizeBytes": 758859
+    },
+    {
+      "index": 338,
+      "file": "chunks/chunk_0338.json",
+      "count": 500,
+      "sizeBytes": 763744
+    },
+    {
+      "index": 339,
+      "file": "chunks/chunk_0339.json",
+      "count": 500,
+      "sizeBytes": 759519
+    },
+    {
+      "index": 340,
+      "file": "chunks/chunk_0340.json",
+      "count": 500,
+      "sizeBytes": 772133
+    },
+    {
+      "index": 341,
+      "file": "chunks/chunk_0341.json",
+      "count": 500,
+      "sizeBytes": 771441
+    },
+    {
+      "index": 342,
+      "file": "chunks/chunk_0342.json",
+      "count": 500,
+      "sizeBytes": 760703
+    },
+    {
+      "index": 343,
+      "file": "chunks/chunk_0343.json",
+      "count": 500,
+      "sizeBytes": 762497
+    },
+    {
+      "index": 344,
+      "file": "chunks/chunk_0344.json",
+      "count": 500,
+      "sizeBytes": 774319
+    },
+    {
+      "index": 345,
+      "file": "chunks/chunk_0345.json",
+      "count": 500,
+      "sizeBytes": 783722
+    },
+    {
+      "index": 346,
+      "file": "chunks/chunk_0346.json",
+      "count": 500,
+      "sizeBytes": 786272
+    },
+    {
+      "index": 347,
+      "file": "chunks/chunk_0347.json",
+      "count": 500,
+      "sizeBytes": 753653
+    },
+    {
+      "index": 348,
+      "file": "chunks/chunk_0348.json",
+      "count": 500,
+      "sizeBytes": 794735
+    },
+    {
+      "index": 349,
+      "file": "chunks/chunk_0349.json",
+      "count": 500,
+      "sizeBytes": 780615
+    },
+    {
+      "index": 350,
+      "file": "chunks/chunk_0350.json",
+      "count": 500,
+      "sizeBytes": 769985
+    },
+    {
+      "index": 351,
+      "file": "chunks/chunk_0351.json",
+      "count": 500,
+      "sizeBytes": 771446
+    },
+    {
+      "index": 352,
+      "file": "chunks/chunk_0352.json",
+      "count": 500,
+      "sizeBytes": 772448
+    },
+    {
+      "index": 353,
+      "file": "chunks/chunk_0353.json",
+      "count": 500,
+      "sizeBytes": 763819
+    },
+    {
+      "index": 354,
+      "file": "chunks/chunk_0354.json",
+      "count": 500,
+      "sizeBytes": 769093
+    },
+    {
+      "index": 355,
+      "file": "chunks/chunk_0355.json",
+      "count": 500,
+      "sizeBytes": 767593
+    },
+    {
+      "index": 356,
+      "file": "chunks/chunk_0356.json",
+      "count": 500,
+      "sizeBytes": 807576
+    },
+    {
+      "index": 357,
+      "file": "chunks/chunk_0357.json",
+      "count": 500,
+      "sizeBytes": 790255
+    },
+    {
+      "index": 358,
+      "file": "chunks/chunk_0358.json",
+      "count": 500,
+      "sizeBytes": 779016
+    },
+    {
+      "index": 359,
+      "file": "chunks/chunk_0359.json",
+      "count": 500,
+      "sizeBytes": 786139
+    },
+    {
+      "index": 360,
+      "file": "chunks/chunk_0360.json",
+      "count": 500,
+      "sizeBytes": 769293
+    },
+    {
+      "index": 361,
+      "file": "chunks/chunk_0361.json",
+      "count": 500,
+      "sizeBytes": 761946
+    },
+    {
+      "index": 362,
+      "file": "chunks/chunk_0362.json",
+      "count": 500,
+      "sizeBytes": 778046
+    },
+    {
+      "index": 363,
+      "file": "chunks/chunk_0363.json",
+      "count": 500,
+      "sizeBytes": 760366
+    },
+    {
+      "index": 364,
+      "file": "chunks/chunk_0364.json",
+      "count": 500,
+      "sizeBytes": 668478
+    },
+    {
+      "index": 365,
+      "file": "chunks/chunk_0365.json",
+      "count": 500,
+      "sizeBytes": 676611
+    },
+    {
+      "index": 366,
+      "file": "chunks/chunk_0366.json",
+      "count": 500,
+      "sizeBytes": 694630
+    },
+    {
+      "index": 367,
+      "file": "chunks/chunk_0367.json",
+      "count": 500,
+      "sizeBytes": 685242
+    },
+    {
+      "index": 368,
+      "file": "chunks/chunk_0368.json",
+      "count": 500,
+      "sizeBytes": 688784
+    },
+    {
+      "index": 369,
+      "file": "chunks/chunk_0369.json",
+      "count": 500,
+      "sizeBytes": 672360
+    },
+    {
+      "index": 370,
+      "file": "chunks/chunk_0370.json",
+      "count": 500,
+      "sizeBytes": 660511
+    },
+    {
+      "index": 371,
+      "file": "chunks/chunk_0371.json",
+      "count": 500,
+      "sizeBytes": 659147
+    },
+    {
+      "index": 372,
+      "file": "chunks/chunk_0372.json",
+      "count": 500,
+      "sizeBytes": 675600
+    },
+    {
+      "index": 373,
+      "file": "chunks/chunk_0373.json",
+      "count": 500,
+      "sizeBytes": 662350
+    },
+    {
+      "index": 374,
+      "file": "chunks/chunk_0374.json",
+      "count": 500,
+      "sizeBytes": 673644
+    },
+    {
+      "index": 375,
+      "file": "chunks/chunk_0375.json",
+      "count": 500,
+      "sizeBytes": 673712
+    },
+    {
+      "index": 376,
+      "file": "chunks/chunk_0376.json",
+      "count": 500,
+      "sizeBytes": 688561
+    },
+    {
+      "index": 377,
+      "file": "chunks/chunk_0377.json",
+      "count": 500,
+      "sizeBytes": 693057
+    },
+    {
+      "index": 378,
+      "file": "chunks/chunk_0378.json",
+      "count": 500,
+      "sizeBytes": 701468
+    },
+    {
+      "index": 379,
+      "file": "chunks/chunk_0379.json",
+      "count": 500,
+      "sizeBytes": 692274
+    },
+    {
+      "index": 380,
+      "file": "chunks/chunk_0380.json",
+      "count": 500,
+      "sizeBytes": 688216
+    },
+    {
+      "index": 381,
+      "file": "chunks/chunk_0381.json",
+      "count": 500,
+      "sizeBytes": 704197
+    },
+    {
+      "index": 382,
+      "file": "chunks/chunk_0382.json",
+      "count": 500,
+      "sizeBytes": 653611
+    },
+    {
+      "index": 383,
+      "file": "chunks/chunk_0383.json",
+      "count": 500,
+      "sizeBytes": 664036
+    },
+    {
+      "index": 384,
+      "file": "chunks/chunk_0384.json",
+      "count": 500,
+      "sizeBytes": 677845
+    },
+    {
+      "index": 385,
+      "file": "chunks/chunk_0385.json",
+      "count": 500,
+      "sizeBytes": 671356
+    },
+    {
+      "index": 386,
+      "file": "chunks/chunk_0386.json",
+      "count": 500,
+      "sizeBytes": 650192
+    },
+    {
+      "index": 387,
+      "file": "chunks/chunk_0387.json",
+      "count": 500,
+      "sizeBytes": 655635
+    },
+    {
+      "index": 388,
+      "file": "chunks/chunk_0388.json",
+      "count": 500,
+      "sizeBytes": 683311
+    },
+    {
+      "index": 389,
+      "file": "chunks/chunk_0389.json",
+      "count": 500,
+      "sizeBytes": 696994
+    },
+    {
+      "index": 390,
+      "file": "chunks/chunk_0390.json",
+      "count": 500,
+      "sizeBytes": 678530
+    },
+    {
+      "index": 391,
+      "file": "chunks/chunk_0391.json",
+      "count": 500,
+      "sizeBytes": 660822
+    },
+    {
+      "index": 392,
+      "file": "chunks/chunk_0392.json",
+      "count": 500,
+      "sizeBytes": 675819
+    },
+    {
+      "index": 393,
+      "file": "chunks/chunk_0393.json",
+      "count": 500,
+      "sizeBytes": 663694
+    },
+    {
+      "index": 394,
+      "file": "chunks/chunk_0394.json",
+      "count": 500,
+      "sizeBytes": 709088
+    },
+    {
+      "index": 395,
+      "file": "chunks/chunk_0395.json",
+      "count": 500,
+      "sizeBytes": 703154
+    },
+    {
+      "index": 396,
+      "file": "chunks/chunk_0396.json",
+      "count": 500,
+      "sizeBytes": 700412
+    },
+    {
+      "index": 397,
+      "file": "chunks/chunk_0397.json",
+      "count": 500,
+      "sizeBytes": 687538
+    },
+    {
+      "index": 398,
+      "file": "chunks/chunk_0398.json",
+      "count": 500,
+      "sizeBytes": 680889
+    },
+    {
+      "index": 399,
+      "file": "chunks/chunk_0399.json",
+      "count": 500,
+      "sizeBytes": 697555
+    },
+    {
+      "index": 400,
+      "file": "chunks/chunk_0400.json",
+      "count": 500,
+      "sizeBytes": 683755
+    },
+    {
+      "index": 401,
+      "file": "chunks/chunk_0401.json",
+      "count": 500,
+      "sizeBytes": 707440
+    },
+    {
+      "index": 402,
+      "file": "chunks/chunk_0402.json",
+      "count": 500,
+      "sizeBytes": 734238
+    },
+    {
+      "index": 403,
+      "file": "chunks/chunk_0403.json",
+      "count": 500,
+      "sizeBytes": 726364
+    },
+    {
+      "index": 404,
+      "file": "chunks/chunk_0404.json",
+      "count": 500,
+      "sizeBytes": 698023
+    },
+    {
+      "index": 405,
+      "file": "chunks/chunk_0405.json",
+      "count": 500,
+      "sizeBytes": 696117
+    },
+    {
+      "index": 406,
+      "file": "chunks/chunk_0406.json",
+      "count": 500,
+      "sizeBytes": 723166
+    },
+    {
+      "index": 407,
+      "file": "chunks/chunk_0407.json",
+      "count": 500,
+      "sizeBytes": 744298
+    },
+    {
+      "index": 408,
+      "file": "chunks/chunk_0408.json",
+      "count": 500,
+      "sizeBytes": 702332
+    },
+    {
+      "index": 409,
+      "file": "chunks/chunk_0409.json",
+      "count": 500,
+      "sizeBytes": 705518
+    },
+    {
+      "index": 410,
+      "file": "chunks/chunk_0410.json",
+      "count": 500,
+      "sizeBytes": 721687
+    },
+    {
+      "index": 411,
+      "file": "chunks/chunk_0411.json",
+      "count": 500,
+      "sizeBytes": 719627
+    },
+    {
+      "index": 412,
+      "file": "chunks/chunk_0412.json",
+      "count": 500,
+      "sizeBytes": 694504
+    },
+    {
+      "index": 413,
+      "file": "chunks/chunk_0413.json",
+      "count": 500,
+      "sizeBytes": 720407
+    },
+    {
+      "index": 414,
+      "file": "chunks/chunk_0414.json",
+      "count": 500,
+      "sizeBytes": 703589
+    },
+    {
+      "index": 415,
+      "file": "chunks/chunk_0415.json",
+      "count": 500,
+      "sizeBytes": 732928
+    },
+    {
+      "index": 416,
+      "file": "chunks/chunk_0416.json",
+      "count": 500,
+      "sizeBytes": 730185
+    },
+    {
+      "index": 417,
+      "file": "chunks/chunk_0417.json",
+      "count": 500,
+      "sizeBytes": 711269
+    },
+    {
+      "index": 418,
+      "file": "chunks/chunk_0418.json",
+      "count": 500,
+      "sizeBytes": 731016
+    },
+    {
+      "index": 419,
+      "file": "chunks/chunk_0419.json",
+      "count": 500,
+      "sizeBytes": 734802
+    },
+    {
+      "index": 420,
+      "file": "chunks/chunk_0420.json",
+      "count": 500,
+      "sizeBytes": 709521
+    },
+    {
+      "index": 421,
+      "file": "chunks/chunk_0421.json",
+      "count": 500,
+      "sizeBytes": 696107
+    },
+    {
+      "index": 422,
+      "file": "chunks/chunk_0422.json",
+      "count": 500,
+      "sizeBytes": 706079
+    },
+    {
+      "index": 423,
+      "file": "chunks/chunk_0423.json",
+      "count": 500,
+      "sizeBytes": 710793
+    },
+    {
+      "index": 424,
+      "file": "chunks/chunk_0424.json",
+      "count": 500,
+      "sizeBytes": 688397
+    },
+    {
+      "index": 425,
+      "file": "chunks/chunk_0425.json",
+      "count": 500,
+      "sizeBytes": 679847
+    },
+    {
+      "index": 426,
+      "file": "chunks/chunk_0426.json",
+      "count": 500,
+      "sizeBytes": 668357
+    },
+    {
+      "index": 427,
+      "file": "chunks/chunk_0427.json",
+      "count": 500,
+      "sizeBytes": 653006
+    },
+    {
+      "index": 428,
+      "file": "chunks/chunk_0428.json",
+      "count": 500,
+      "sizeBytes": 651267
+    },
+    {
+      "index": 429,
+      "file": "chunks/chunk_0429.json",
+      "count": 500,
+      "sizeBytes": 684282
+    },
+    {
+      "index": 430,
+      "file": "chunks/chunk_0430.json",
+      "count": 500,
+      "sizeBytes": 698966
+    },
+    {
+      "index": 431,
+      "file": "chunks/chunk_0431.json",
+      "count": 500,
+      "sizeBytes": 671103
+    },
+    {
+      "index": 432,
+      "file": "chunks/chunk_0432.json",
+      "count": 500,
+      "sizeBytes": 665702
+    },
+    {
+      "index": 433,
+      "file": "chunks/chunk_0433.json",
+      "count": 500,
+      "sizeBytes": 683751
+    },
+    {
+      "index": 434,
+      "file": "chunks/chunk_0434.json",
+      "count": 500,
+      "sizeBytes": 689760
+    },
+    {
+      "index": 435,
+      "file": "chunks/chunk_0435.json",
+      "count": 500,
+      "sizeBytes": 674318
+    },
+    {
+      "index": 436,
+      "file": "chunks/chunk_0436.json",
+      "count": 500,
+      "sizeBytes": 654038
+    },
+    {
+      "index": 437,
+      "file": "chunks/chunk_0437.json",
+      "count": 500,
+      "sizeBytes": 673700
+    },
+    {
+      "index": 438,
+      "file": "chunks/chunk_0438.json",
+      "count": 500,
+      "sizeBytes": 683474
+    },
+    {
+      "index": 439,
+      "file": "chunks/chunk_0439.json",
+      "count": 500,
+      "sizeBytes": 658103
+    },
+    {
+      "index": 440,
+      "file": "chunks/chunk_0440.json",
+      "count": 500,
+      "sizeBytes": 650897
+    },
+    {
+      "index": 441,
+      "file": "chunks/chunk_0441.json",
+      "count": 500,
+      "sizeBytes": 655882
+    },
+    {
+      "index": 442,
+      "file": "chunks/chunk_0442.json",
+      "count": 500,
+      "sizeBytes": 671633
+    },
+    {
+      "index": 443,
+      "file": "chunks/chunk_0443.json",
+      "count": 500,
+      "sizeBytes": 682984
+    },
+    {
+      "index": 444,
+      "file": "chunks/chunk_0444.json",
+      "count": 500,
+      "sizeBytes": 682966
+    },
+    {
+      "index": 445,
+      "file": "chunks/chunk_0445.json",
+      "count": 500,
+      "sizeBytes": 664895
+    },
+    {
+      "index": 446,
+      "file": "chunks/chunk_0446.json",
+      "count": 500,
+      "sizeBytes": 674323
+    },
+    {
+      "index": 447,
+      "file": "chunks/chunk_0447.json",
+      "count": 500,
+      "sizeBytes": 682005
+    },
+    {
+      "index": 448,
+      "file": "chunks/chunk_0448.json",
+      "count": 500,
+      "sizeBytes": 678570
+    },
+    {
+      "index": 449,
+      "file": "chunks/chunk_0449.json",
+      "count": 500,
+      "sizeBytes": 706503
+    },
+    {
+      "index": 450,
+      "file": "chunks/chunk_0450.json",
+      "count": 500,
+      "sizeBytes": 700311
+    },
+    {
+      "index": 451,
+      "file": "chunks/chunk_0451.json",
+      "count": 500,
+      "sizeBytes": 667775
+    },
+    {
+      "index": 452,
+      "file": "chunks/chunk_0452.json",
+      "count": 500,
+      "sizeBytes": 667092
+    },
+    {
+      "index": 453,
+      "file": "chunks/chunk_0453.json",
+      "count": 500,
+      "sizeBytes": 672108
+    },
+    {
+      "index": 454,
+      "file": "chunks/chunk_0454.json",
+      "count": 500,
+      "sizeBytes": 722157
+    },
+    {
+      "index": 455,
+      "file": "chunks/chunk_0455.json",
+      "count": 500,
+      "sizeBytes": 774017
+    },
+    {
+      "index": 456,
+      "file": "chunks/chunk_0456.json",
+      "count": 500,
+      "sizeBytes": 770981
+    },
+    {
+      "index": 457,
+      "file": "chunks/chunk_0457.json",
+      "count": 500,
+      "sizeBytes": 763143
+    },
+    {
+      "index": 458,
+      "file": "chunks/chunk_0458.json",
+      "count": 500,
+      "sizeBytes": 758100
+    },
+    {
+      "index": 459,
+      "file": "chunks/chunk_0459.json",
+      "count": 500,
+      "sizeBytes": 764856
+    },
+    {
+      "index": 460,
+      "file": "chunks/chunk_0460.json",
+      "count": 500,
+      "sizeBytes": 766228
+    },
+    {
+      "index": 461,
+      "file": "chunks/chunk_0461.json",
+      "count": 500,
+      "sizeBytes": 793445
+    },
+    {
+      "index": 462,
+      "file": "chunks/chunk_0462.json",
+      "count": 500,
+      "sizeBytes": 773891
+    },
+    {
+      "index": 463,
+      "file": "chunks/chunk_0463.json",
+      "count": 500,
+      "sizeBytes": 767686
+    },
+    {
+      "index": 464,
+      "file": "chunks/chunk_0464.json",
+      "count": 500,
+      "sizeBytes": 775390
+    },
+    {
+      "index": 465,
+      "file": "chunks/chunk_0465.json",
+      "count": 500,
+      "sizeBytes": 759559
+    },
+    {
+      "index": 466,
+      "file": "chunks/chunk_0466.json",
+      "count": 500,
+      "sizeBytes": 746967
+    },
+    {
+      "index": 467,
+      "file": "chunks/chunk_0467.json",
+      "count": 500,
+      "sizeBytes": 764311
+    },
+    {
+      "index": 468,
+      "file": "chunks/chunk_0468.json",
+      "count": 500,
+      "sizeBytes": 776369
+    },
+    {
+      "index": 469,
+      "file": "chunks/chunk_0469.json",
+      "count": 500,
+      "sizeBytes": 779198
+    },
+    {
+      "index": 470,
+      "file": "chunks/chunk_0470.json",
+      "count": 500,
+      "sizeBytes": 772501
+    },
+    {
+      "index": 471,
+      "file": "chunks/chunk_0471.json",
+      "count": 500,
+      "sizeBytes": 763659
+    },
+    {
+      "index": 472,
+      "file": "chunks/chunk_0472.json",
+      "count": 500,
+      "sizeBytes": 767135
+    },
+    {
+      "index": 473,
+      "file": "chunks/chunk_0473.json",
+      "count": 500,
+      "sizeBytes": 746942
+    },
+    {
+      "index": 474,
+      "file": "chunks/chunk_0474.json",
+      "count": 500,
+      "sizeBytes": 742203
+    },
+    {
+      "index": 475,
+      "file": "chunks/chunk_0475.json",
+      "count": 500,
+      "sizeBytes": 764093
+    },
+    {
+      "index": 476,
+      "file": "chunks/chunk_0476.json",
+      "count": 500,
+      "sizeBytes": 766594
+    },
+    {
+      "index": 477,
+      "file": "chunks/chunk_0477.json",
+      "count": 500,
+      "sizeBytes": 773280
+    },
+    {
+      "index": 478,
+      "file": "chunks/chunk_0478.json",
+      "count": 500,
+      "sizeBytes": 784569
+    },
+    {
+      "index": 479,
+      "file": "chunks/chunk_0479.json",
+      "count": 500,
+      "sizeBytes": 771940
+    },
+    {
+      "index": 480,
+      "file": "chunks/chunk_0480.json",
+      "count": 500,
+      "sizeBytes": 765998
+    },
+    {
+      "index": 481,
+      "file": "chunks/chunk_0481.json",
+      "count": 500,
+      "sizeBytes": 767976
+    },
+    {
+      "index": 482,
+      "file": "chunks/chunk_0482.json",
+      "count": 500,
+      "sizeBytes": 765684
+    },
+    {
+      "index": 483,
+      "file": "chunks/chunk_0483.json",
+      "count": 500,
+      "sizeBytes": 775414
+    },
+    {
+      "index": 484,
+      "file": "chunks/chunk_0484.json",
+      "count": 500,
+      "sizeBytes": 766009
+    },
+    {
+      "index": 485,
+      "file": "chunks/chunk_0485.json",
+      "count": 500,
+      "sizeBytes": 763346
+    },
+    {
+      "index": 486,
+      "file": "chunks/chunk_0486.json",
+      "count": 500,
+      "sizeBytes": 766880
+    },
+    {
+      "index": 487,
+      "file": "chunks/chunk_0487.json",
+      "count": 500,
+      "sizeBytes": 765997
+    },
+    {
+      "index": 488,
+      "file": "chunks/chunk_0488.json",
+      "count": 500,
+      "sizeBytes": 768547
+    },
+    {
+      "index": 489,
+      "file": "chunks/chunk_0489.json",
+      "count": 500,
+      "sizeBytes": 768350
+    },
+    {
+      "index": 490,
+      "file": "chunks/chunk_0490.json",
+      "count": 500,
+      "sizeBytes": 769582
+    },
+    {
+      "index": 491,
+      "file": "chunks/chunk_0491.json",
+      "count": 500,
+      "sizeBytes": 765314
+    },
+    {
+      "index": 492,
+      "file": "chunks/chunk_0492.json",
+      "count": 500,
+      "sizeBytes": 765595
+    },
+    {
+      "index": 493,
+      "file": "chunks/chunk_0493.json",
+      "count": 500,
+      "sizeBytes": 761300
+    },
+    {
+      "index": 494,
+      "file": "chunks/chunk_0494.json",
+      "count": 500,
+      "sizeBytes": 750246
+    },
+    {
+      "index": 495,
+      "file": "chunks/chunk_0495.json",
+      "count": 500,
+      "sizeBytes": 758226
+    },
+    {
+      "index": 496,
+      "file": "chunks/chunk_0496.json",
+      "count": 500,
+      "sizeBytes": 765301
+    },
+    {
+      "index": 497,
+      "file": "chunks/chunk_0497.json",
+      "count": 500,
+      "sizeBytes": 768611
+    },
+    {
+      "index": 498,
+      "file": "chunks/chunk_0498.json",
+      "count": 500,
+      "sizeBytes": 770744
+    },
+    {
+      "index": 499,
+      "file": "chunks/chunk_0499.json",
+      "count": 500,
+      "sizeBytes": 770215
+    },
+    {
+      "index": 500,
+      "file": "chunks/chunk_0500.json",
+      "count": 500,
+      "sizeBytes": 764369
+    },
+    {
+      "index": 501,
+      "file": "chunks/chunk_0501.json",
+      "count": 54,
+      "sizeBytes": 81674
+    }
+  ],
+  "slimIndexFile": "medicines_slim_index.json",
+  "slimIndexSizeMB": 52.62,
+  "miniIndexFile": "medicines_mini_index.json",
+  "miniIndexEntries": 5000,
+  "indexBuckets": {
+    "a": {
+      "file": "index_buckets/bucket_a.json",
+      "count": 25170,
+      "sizeKB": 5353.6
+    },
+    "b": {
+      "file": "index_buckets/bucket_b.json",
+      "count": 8015,
+      "sizeKB": 1714.8
+    },
+    "c": {
+      "file": "index_buckets/bucket_c.json",
+      "count": 23876,
+      "sizeKB": 5152.7
+    },
+    "d": {
+      "file": "index_buckets/bucket_d.json",
+      "count": 13859,
+      "sizeKB": 2987.3
+    },
+    "e": {
+      "file": "index_buckets/bucket_e.json",
+      "count": 11541,
+      "sizeKB": 2469.3
+    },
+    "f": {
+      "file": "index_buckets/bucket_f.json",
+      "count": 9972,
+      "sizeKB": 2124.4
+    },
+    "g": {
+      "file": "index_buckets/bucket_g.json",
+      "count": 9321,
+      "sizeKB": 2034.3
+    },
+    "h": {
+      "file": "index_buckets/bucket_h.json",
+      "count": 3988,
+      "sizeKB": 865.1
+    },
+    "i": {
+      "file": "index_buckets/bucket_i.json",
+      "count": 5993,
+      "sizeKB": 1288.8
+    },
+    "j": {
+      "file": "index_buckets/bucket_j.json",
+      "count": 1740,
+      "sizeKB": 379.4
+    },
+    "k": {
+      "file": "index_buckets/bucket_k.json",
+      "count": 5064,
+      "sizeKB": 1094.2
+    },
+    "l": {
+      "file": "index_buckets/bucket_l.json",
+      "count": 12141,
+      "sizeKB": 2575.9
+    },
+    "m": {
+      "file": "index_buckets/bucket_m.json",
+      "count": 16562,
+      "sizeKB": 3613.0
+    },
+    "n": {
+      "file": "index_buckets/bucket_n.json",
+      "count": 12580,
+      "sizeKB": 2650.0
+    },
+    "o": {
+      "file": "index_buckets/bucket_o.json",
+      "count": 11726,
+      "sizeKB": 2502.4
+    },
+    "p": {
+      "file": "index_buckets/bucket_p.json",
+      "count": 9120,
+      "sizeKB": 1968.1
+    },
+    "q": {
+      "file": "index_buckets/bucket_q.json",
+      "count": 1280,
+      "sizeKB": 272.3
+    },
+    "r": {
+      "file": "index_buckets/bucket_r.json",
+      "count": 15129,
+      "sizeKB": 3254.1
+    },
+    "s": {
+      "file": "index_buckets/bucket_s.json",
+      "count": 14975,
+      "sizeKB": 3265.3
+    },
+    "t": {
+      "file": "index_buckets/bucket_t.json",
+      "count": 15118,
+      "sizeKB": 3276.2
+    },
+    "u": {
+      "file": "index_buckets/bucket_u.json",
+      "count": 2961,
+      "sizeKB": 645.1
+    },
+    "v": {
+      "file": "index_buckets/bucket_v.json",
+      "count": 8079,
+      "sizeKB": 1735.7
+    },
+    "w": {
+      "file": "index_buckets/bucket_w.json",
+      "count": 2322,
+      "sizeKB": 506.9
+    },
+    "x": {
+      "file": "index_buckets/bucket_x.json",
+      "count": 1954,
+      "sizeKB": 421.4
+    },
+    "y": {
+      "file": "index_buckets/bucket_y.json",
+      "count": 613,
+      "sizeKB": 133.2
+    },
+    "z": {
+      "file": "index_buckets/bucket_z.json",
+      "count": 7455,
+      "sizeKB": 1598.4
+    }
+  },
+  "indexBucketDir": "index_buckets",
+  "loadingStrategy": "lazy-by-letter"
+}
